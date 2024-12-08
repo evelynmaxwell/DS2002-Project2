@@ -1,0 +1,5002 @@
+[
+	{
+		"rental_key" : 501,
+		"rental_id" : 501,
+		"inventory_id" : 601,
+		"film_key" : 131,
+		"staff_key" : 2,
+		"customer_key" : 162,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 502,
+		"rental_id" : 502,
+		"inventory_id" : 3131,
+		"film_key" : 688,
+		"staff_key" : 2,
+		"customer_key" : 179,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 503,
+		"rental_id" : 503,
+		"inventory_id" : 3005,
+		"film_key" : 659,
+		"staff_key" : 2,
+		"customer_key" : 288,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050528
+	},
+	{
+		"rental_key" : 504,
+		"rental_id" : 504,
+		"inventory_id" : 2086,
+		"film_key" : 452,
+		"staff_key" : 1,
+		"customer_key" : 170,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 505,
+		"rental_id" : 505,
+		"inventory_id" : 71,
+		"film_key" : 15,
+		"staff_key" : 1,
+		"customer_key" : 111,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 506,
+		"rental_id" : 506,
+		"inventory_id" : 667,
+		"film_key" : 145,
+		"staff_key" : 1,
+		"customer_key" : 469,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 507,
+		"rental_id" : 507,
+		"inventory_id" : 3621,
+		"film_key" : 790,
+		"staff_key" : 2,
+		"customer_key" : 421,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 508,
+		"rental_id" : 508,
+		"inventory_id" : 4179,
+		"film_key" : 910,
+		"staff_key" : 1,
+		"customer_key" : 434,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 509,
+		"rental_id" : 509,
+		"inventory_id" : 3416,
+		"film_key" : 748,
+		"staff_key" : 1,
+		"customer_key" : 147,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 510,
+		"rental_id" : 510,
+		"inventory_id" : 4338,
+		"film_key" : 945,
+		"staff_key" : 2,
+		"customer_key" : 113,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 511,
+		"rental_id" : 511,
+		"inventory_id" : 3827,
+		"film_key" : 838,
+		"staff_key" : 1,
+		"customer_key" : 296,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 512,
+		"rental_id" : 512,
+		"inventory_id" : 2176,
+		"film_key" : 470,
+		"staff_key" : 2,
+		"customer_key" : 231,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 513,
+		"rental_id" : 513,
+		"inventory_id" : 225,
+		"film_key" : 50,
+		"staff_key" : 1,
+		"customer_key" : 489,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 514,
+		"rental_id" : 514,
+		"inventory_id" : 1697,
+		"film_key" : 369,
+		"staff_key" : 2,
+		"customer_key" : 597,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 515,
+		"rental_id" : 515,
+		"inventory_id" : 3369,
+		"film_key" : 739,
+		"staff_key" : 2,
+		"customer_key" : 110,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 516,
+		"rental_id" : 516,
+		"inventory_id" : 4357,
+		"film_key" : 949,
+		"staff_key" : 1,
+		"customer_key" : 400,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 517,
+		"rental_id" : 517,
+		"inventory_id" : 234,
+		"film_key" : 52,
+		"staff_key" : 1,
+		"customer_key" : 403,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 518,
+		"rental_id" : 518,
+		"inventory_id" : 4087,
+		"film_key" : 891,
+		"staff_key" : 1,
+		"customer_key" : 480,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 519,
+		"rental_id" : 519,
+		"inventory_id" : 3564,
+		"film_key" : 778,
+		"staff_key" : 1,
+		"customer_key" : 245,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 520,
+		"rental_id" : 520,
+		"inventory_id" : 3845,
+		"film_key" : 842,
+		"staff_key" : 1,
+		"customer_key" : 161,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 521,
+		"rental_id" : 521,
+		"inventory_id" : 2397,
+		"film_key" : 524,
+		"staff_key" : 1,
+		"customer_key" : 374,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050528
+	},
+	{
+		"rental_key" : 522,
+		"rental_id" : 522,
+		"inventory_id" : 3195,
+		"film_key" : 702,
+		"staff_key" : 1,
+		"customer_key" : 382,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 523,
+		"rental_id" : 523,
+		"inventory_id" : 1905,
+		"film_key" : 415,
+		"staff_key" : 2,
+		"customer_key" : 138,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 524,
+		"rental_id" : 524,
+		"inventory_id" : 1962,
+		"film_key" : 428,
+		"staff_key" : 1,
+		"customer_key" : 223,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 525,
+		"rental_id" : 525,
+		"inventory_id" : 1817,
+		"film_key" : 395,
+		"staff_key" : 1,
+		"customer_key" : 14,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 526,
+		"rental_id" : 526,
+		"inventory_id" : 1387,
+		"film_key" : 304,
+		"staff_key" : 1,
+		"customer_key" : 408,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 527,
+		"rental_id" : 527,
+		"inventory_id" : 266,
+		"film_key" : 59,
+		"staff_key" : 1,
+		"customer_key" : 169,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 528,
+		"rental_id" : 528,
+		"inventory_id" : 1655,
+		"film_key" : 361,
+		"staff_key" : 2,
+		"customer_key" : 359,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 529,
+		"rental_id" : 529,
+		"inventory_id" : 2624,
+		"film_key" : 575,
+		"staff_key" : 1,
+		"customer_key" : 469,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 530,
+		"rental_id" : 530,
+		"inventory_id" : 3332,
+		"film_key" : 733,
+		"staff_key" : 2,
+		"customer_key" : 312,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 531,
+		"rental_id" : 531,
+		"inventory_id" : 1113,
+		"film_key" : 247,
+		"staff_key" : 2,
+		"customer_key" : 589,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 532,
+		"rental_id" : 532,
+		"inventory_id" : 2793,
+		"film_key" : 613,
+		"staff_key" : 1,
+		"customer_key" : 120,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 533,
+		"rental_id" : 533,
+		"inventory_id" : 4306,
+		"film_key" : 938,
+		"staff_key" : 2,
+		"customer_key" : 528,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 534,
+		"rental_id" : 534,
+		"inventory_id" : 992,
+		"film_key" : 220,
+		"staff_key" : 1,
+		"customer_key" : 184,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 535,
+		"rental_id" : 535,
+		"inventory_id" : 4209,
+		"film_key" : 915,
+		"staff_key" : 1,
+		"customer_key" : 307,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 536,
+		"rental_id" : 536,
+		"inventory_id" : 2962,
+		"film_key" : 649,
+		"staff_key" : 2,
+		"customer_key" : 514,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 537,
+		"rental_id" : 537,
+		"inventory_id" : 3095,
+		"film_key" : 680,
+		"staff_key" : 2,
+		"customer_key" : 315,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 538,
+		"rental_id" : 538,
+		"inventory_id" : 2262,
+		"film_key" : 489,
+		"staff_key" : 2,
+		"customer_key" : 110,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 539,
+		"rental_id" : 539,
+		"inventory_id" : 3427,
+		"film_key" : 751,
+		"staff_key" : 1,
+		"customer_key" : 161,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 540,
+		"rental_id" : 540,
+		"inventory_id" : 3321,
+		"film_key" : 730,
+		"staff_key" : 1,
+		"customer_key" : 119,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 541,
+		"rental_id" : 541,
+		"inventory_id" : 1662,
+		"film_key" : 363,
+		"staff_key" : 2,
+		"customer_key" : 535,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 542,
+		"rental_id" : 542,
+		"inventory_id" : 4444,
+		"film_key" : 971,
+		"staff_key" : 1,
+		"customer_key" : 261,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 543,
+		"rental_id" : 543,
+		"inventory_id" : 530,
+		"film_key" : 116,
+		"staff_key" : 2,
+		"customer_key" : 493,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 544,
+		"rental_id" : 544,
+		"inventory_id" : 2964,
+		"film_key" : 650,
+		"staff_key" : 1,
+		"customer_key" : 311,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 545,
+		"rental_id" : 545,
+		"inventory_id" : 1086,
+		"film_key" : 242,
+		"staff_key" : 2,
+		"customer_key" : 54,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 546,
+		"rental_id" : 546,
+		"inventory_id" : 487,
+		"film_key" : 109,
+		"staff_key" : 1,
+		"customer_key" : 20,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 547,
+		"rental_id" : 547,
+		"inventory_id" : 2065,
+		"film_key" : 448,
+		"staff_key" : 2,
+		"customer_key" : 506,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 548,
+		"rental_id" : 548,
+		"inventory_id" : 3704,
+		"film_key" : 810,
+		"staff_key" : 2,
+		"customer_key" : 450,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 549,
+		"rental_id" : 549,
+		"inventory_id" : 1818,
+		"film_key" : 395,
+		"staff_key" : 1,
+		"customer_key" : 159,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 550,
+		"rental_id" : 550,
+		"inventory_id" : 3632,
+		"film_key" : 793,
+		"staff_key" : 2,
+		"customer_key" : 432,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 551,
+		"rental_id" : 551,
+		"inventory_id" : 3119,
+		"film_key" : 686,
+		"staff_key" : 2,
+		"customer_key" : 315,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 552,
+		"rental_id" : 552,
+		"inventory_id" : 23,
+		"film_key" : 5,
+		"staff_key" : 2,
+		"customer_key" : 106,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 553,
+		"rental_id" : 553,
+		"inventory_id" : 1349,
+		"film_key" : 298,
+		"staff_key" : 2,
+		"customer_key" : 176,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 554,
+		"rental_id" : 554,
+		"inventory_id" : 1951,
+		"film_key" : 425,
+		"staff_key" : 2,
+		"customer_key" : 376,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 555,
+		"rental_id" : 555,
+		"inventory_id" : 4397,
+		"film_key" : 961,
+		"staff_key" : 2,
+		"customer_key" : 55,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 556,
+		"rental_id" : 556,
+		"inventory_id" : 1814,
+		"film_key" : 394,
+		"staff_key" : 2,
+		"customer_key" : 22,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 557,
+		"rental_id" : 557,
+		"inventory_id" : 158,
+		"film_key" : 34,
+		"staff_key" : 2,
+		"customer_key" : 444,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 558,
+		"rental_id" : 558,
+		"inventory_id" : 4163,
+		"film_key" : 905,
+		"staff_key" : 1,
+		"customer_key" : 442,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 559,
+		"rental_id" : 559,
+		"inventory_id" : 1227,
+		"film_key" : 272,
+		"staff_key" : 2,
+		"customer_key" : 572,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 560,
+		"rental_id" : 560,
+		"inventory_id" : 644,
+		"film_key" : 140,
+		"staff_key" : 2,
+		"customer_key" : 463,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 561,
+		"rental_id" : 561,
+		"inventory_id" : 928,
+		"film_key" : 206,
+		"staff_key" : 1,
+		"customer_key" : 77,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 562,
+		"rental_id" : 562,
+		"inventory_id" : 3390,
+		"film_key" : 744,
+		"staff_key" : 2,
+		"customer_key" : 102,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 563,
+		"rental_id" : 563,
+		"inventory_id" : 53,
+		"film_key" : 11,
+		"staff_key" : 1,
+		"customer_key" : 324,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 564,
+		"rental_id" : 564,
+		"inventory_id" : 2973,
+		"film_key" : 651,
+		"staff_key" : 1,
+		"customer_key" : 282,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 565,
+		"rental_id" : 565,
+		"inventory_id" : 1494,
+		"film_key" : 327,
+		"staff_key" : 1,
+		"customer_key" : 288,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 566,
+		"rental_id" : 566,
+		"inventory_id" : 4330,
+		"film_key" : 944,
+		"staff_key" : 1,
+		"customer_key" : 253,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 567,
+		"rental_id" : 567,
+		"inventory_id" : 3308,
+		"film_key" : 728,
+		"staff_key" : 2,
+		"customer_key" : 184,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 568,
+		"rental_id" : 568,
+		"inventory_id" : 2232,
+		"film_key" : 483,
+		"staff_key" : 1,
+		"customer_key" : 155,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 569,
+		"rental_id" : 569,
+		"inventory_id" : 4534,
+		"film_key" : 989,
+		"staff_key" : 2,
+		"customer_key" : 56,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 570,
+		"rental_id" : 570,
+		"inventory_id" : 1122,
+		"film_key" : 249,
+		"staff_key" : 1,
+		"customer_key" : 21,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 571,
+		"rental_id" : 571,
+		"inventory_id" : 4250,
+		"film_key" : 924,
+		"staff_key" : 1,
+		"customer_key" : 516,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 572,
+		"rental_id" : 572,
+		"inventory_id" : 1899,
+		"film_key" : 414,
+		"staff_key" : 2,
+		"customer_key" : 337,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 573,
+		"rental_id" : 573,
+		"inventory_id" : 4020,
+		"film_key" : 875,
+		"staff_key" : 1,
+		"customer_key" : 1,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 574,
+		"rental_id" : 574,
+		"inventory_id" : 3883,
+		"film_key" : 849,
+		"staff_key" : 1,
+		"customer_key" : 76,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 575,
+		"rental_id" : 575,
+		"inventory_id" : 4451,
+		"film_key" : 973,
+		"staff_key" : 1,
+		"customer_key" : 142,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 576,
+		"rental_id" : 576,
+		"inventory_id" : 1866,
+		"film_key" : 407,
+		"staff_key" : 2,
+		"customer_key" : 588,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 577,
+		"rental_id" : 577,
+		"inventory_id" : 375,
+		"film_key" : 83,
+		"staff_key" : 2,
+		"customer_key" : 6,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 578,
+		"rental_id" : 578,
+		"inventory_id" : 2938,
+		"film_key" : 645,
+		"staff_key" : 1,
+		"customer_key" : 173,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 579,
+		"rental_id" : 579,
+		"inventory_id" : 3481,
+		"film_key" : 763,
+		"staff_key" : 1,
+		"customer_key" : 181,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 580,
+		"rental_id" : 580,
+		"inventory_id" : 3515,
+		"film_key" : 770,
+		"staff_key" : 2,
+		"customer_key" : 17,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 581,
+		"rental_id" : 581,
+		"inventory_id" : 1380,
+		"film_key" : 303,
+		"staff_key" : 2,
+		"customer_key" : 186,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 582,
+		"rental_id" : 582,
+		"inventory_id" : 4579,
+		"film_key" : 1000,
+		"staff_key" : 1,
+		"customer_key" : 198,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 583,
+		"rental_id" : 583,
+		"inventory_id" : 2679,
+		"film_key" : 588,
+		"staff_key" : 2,
+		"customer_key" : 386,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 584,
+		"rental_id" : 584,
+		"inventory_id" : 1833,
+		"film_key" : 398,
+		"staff_key" : 1,
+		"customer_key" : 69,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 585,
+		"rental_id" : 585,
+		"inventory_id" : 3544,
+		"film_key" : 775,
+		"staff_key" : 2,
+		"customer_key" : 490,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 586,
+		"rental_id" : 586,
+		"inventory_id" : 898,
+		"film_key" : 200,
+		"staff_key" : 1,
+		"customer_key" : 77,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 587,
+		"rental_id" : 587,
+		"inventory_id" : 1413,
+		"film_key" : 309,
+		"staff_key" : 2,
+		"customer_key" : 64,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 588,
+		"rental_id" : 588,
+		"inventory_id" : 95,
+		"film_key" : 19,
+		"staff_key" : 2,
+		"customer_key" : 89,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 589,
+		"rental_id" : 589,
+		"inventory_id" : 4231,
+		"film_key" : 920,
+		"staff_key" : 2,
+		"customer_key" : 308,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 590,
+		"rental_id" : 590,
+		"inventory_id" : 473,
+		"film_key" : 104,
+		"staff_key" : 1,
+		"customer_key" : 462,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 591,
+		"rental_id" : 591,
+		"inventory_id" : 377,
+		"film_key" : 83,
+		"staff_key" : 2,
+		"customer_key" : 19,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 592,
+		"rental_id" : 592,
+		"inventory_id" : 638,
+		"film_key" : 139,
+		"staff_key" : 1,
+		"customer_key" : 244,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 593,
+		"rental_id" : 593,
+		"inventory_id" : 1810,
+		"film_key" : 393,
+		"staff_key" : 2,
+		"customer_key" : 16,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 594,
+		"rental_id" : 594,
+		"inventory_id" : 2766,
+		"film_key" : 608,
+		"staff_key" : 1,
+		"customer_key" : 538,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 595,
+		"rental_id" : 595,
+		"inventory_id" : 595,
+		"film_key" : 130,
+		"staff_key" : 1,
+		"customer_key" : 294,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 596,
+		"rental_id" : 596,
+		"inventory_id" : 821,
+		"film_key" : 179,
+		"staff_key" : 1,
+		"customer_key" : 589,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 597,
+		"rental_id" : 597,
+		"inventory_id" : 4469,
+		"film_key" : 976,
+		"staff_key" : 2,
+		"customer_key" : 249,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 598,
+		"rental_id" : 598,
+		"inventory_id" : 599,
+		"film_key" : 130,
+		"staff_key" : 2,
+		"customer_key" : 159,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 599,
+		"rental_id" : 599,
+		"inventory_id" : 4136,
+		"film_key" : 898,
+		"staff_key" : 2,
+		"customer_key" : 393,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 600,
+		"rental_id" : 600,
+		"inventory_id" : 1567,
+		"film_key" : 344,
+		"staff_key" : 2,
+		"customer_key" : 332,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 601,
+		"rental_id" : 601,
+		"inventory_id" : 3225,
+		"film_key" : 708,
+		"staff_key" : 1,
+		"customer_key" : 429,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 602,
+		"rental_id" : 602,
+		"inventory_id" : 1300,
+		"film_key" : 287,
+		"staff_key" : 2,
+		"customer_key" : 590,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 603,
+		"rental_id" : 603,
+		"inventory_id" : 3248,
+		"film_key" : 715,
+		"staff_key" : 1,
+		"customer_key" : 537,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 604,
+		"rental_id" : 604,
+		"inventory_id" : 1585,
+		"film_key" : 348,
+		"staff_key" : 2,
+		"customer_key" : 426,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 605,
+		"rental_id" : 605,
+		"inventory_id" : 4232,
+		"film_key" : 920,
+		"staff_key" : 2,
+		"customer_key" : 501,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 606,
+		"rental_id" : 606,
+		"inventory_id" : 3509,
+		"film_key" : 768,
+		"staff_key" : 2,
+		"customer_key" : 299,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 607,
+		"rental_id" : 607,
+		"inventory_id" : 2561,
+		"film_key" : 561,
+		"staff_key" : 2,
+		"customer_key" : 554,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 608,
+		"rental_id" : 608,
+		"inventory_id" : 4254,
+		"film_key" : 925,
+		"staff_key" : 2,
+		"customer_key" : 494,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 609,
+		"rental_id" : 609,
+		"inventory_id" : 2944,
+		"film_key" : 646,
+		"staff_key" : 2,
+		"customer_key" : 150,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 610,
+		"rental_id" : 610,
+		"inventory_id" : 3642,
+		"film_key" : 795,
+		"staff_key" : 2,
+		"customer_key" : 500,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 611,
+		"rental_id" : 611,
+		"inventory_id" : 1230,
+		"film_key" : 273,
+		"staff_key" : 2,
+		"customer_key" : 580,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 612,
+		"rental_id" : 612,
+		"inventory_id" : 2180,
+		"film_key" : 471,
+		"staff_key" : 2,
+		"customer_key" : 161,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 613,
+		"rental_id" : 613,
+		"inventory_id" : 270,
+		"film_key" : 60,
+		"staff_key" : 1,
+		"customer_key" : 595,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 614,
+		"rental_id" : 614,
+		"inventory_id" : 280,
+		"film_key" : 63,
+		"staff_key" : 2,
+		"customer_key" : 307,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 615,
+		"rental_id" : 615,
+		"inventory_id" : 3397,
+		"film_key" : 745,
+		"staff_key" : 2,
+		"customer_key" : 533,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 616,
+		"rental_id" : 616,
+		"inventory_id" : 989,
+		"film_key" : 220,
+		"staff_key" : 1,
+		"customer_key" : 471,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 617,
+		"rental_id" : 617,
+		"inventory_id" : 4142,
+		"film_key" : 900,
+		"staff_key" : 2,
+		"customer_key" : 372,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 618,
+		"rental_id" : 618,
+		"inventory_id" : 4445,
+		"film_key" : 972,
+		"staff_key" : 1,
+		"customer_key" : 248,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 619,
+		"rental_id" : 619,
+		"inventory_id" : 2482,
+		"film_key" : 544,
+		"staff_key" : 2,
+		"customer_key" : 407,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 620,
+		"rental_id" : 620,
+		"inventory_id" : 2444,
+		"film_key" : 533,
+		"staff_key" : 1,
+		"customer_key" : 321,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 621,
+		"rental_id" : 621,
+		"inventory_id" : 1144,
+		"film_key" : 253,
+		"staff_key" : 1,
+		"customer_key" : 239,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 622,
+		"rental_id" : 622,
+		"inventory_id" : 2363,
+		"film_key" : 514,
+		"staff_key" : 1,
+		"customer_key" : 109,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 623,
+		"rental_id" : 623,
+		"inventory_id" : 1222,
+		"film_key" : 271,
+		"staff_key" : 1,
+		"customer_key" : 495,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 624,
+		"rental_id" : 624,
+		"inventory_id" : 3660,
+		"film_key" : 800,
+		"staff_key" : 1,
+		"customer_key" : 569,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 625,
+		"rental_id" : 625,
+		"inventory_id" : 2889,
+		"film_key" : 634,
+		"staff_key" : 1,
+		"customer_key" : 596,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 626,
+		"rental_id" : 626,
+		"inventory_id" : 452,
+		"film_key" : 100,
+		"staff_key" : 2,
+		"customer_key" : 584,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 627,
+		"rental_id" : 627,
+		"inventory_id" : 425,
+		"film_key" : 93,
+		"staff_key" : 2,
+		"customer_key" : 241,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 628,
+		"rental_id" : 628,
+		"inventory_id" : 2513,
+		"film_key" : 552,
+		"staff_key" : 2,
+		"customer_key" : 173,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 629,
+		"rental_id" : 629,
+		"inventory_id" : 1527,
+		"film_key" : 334,
+		"staff_key" : 2,
+		"customer_key" : 94,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 630,
+		"rental_id" : 630,
+		"inventory_id" : 1254,
+		"film_key" : 277,
+		"staff_key" : 2,
+		"customer_key" : 417,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 631,
+		"rental_id" : 631,
+		"inventory_id" : 2465,
+		"film_key" : 539,
+		"staff_key" : 2,
+		"customer_key" : 503,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 632,
+		"rental_id" : 632,
+		"inventory_id" : 1287,
+		"film_key" : 284,
+		"staff_key" : 1,
+		"customer_key" : 442,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 633,
+		"rental_id" : 633,
+		"inventory_id" : 58,
+		"film_key" : 11,
+		"staff_key" : 2,
+		"customer_key" : 360,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 634,
+		"rental_id" : 634,
+		"inventory_id" : 2630,
+		"film_key" : 577,
+		"staff_key" : 2,
+		"customer_key" : 428,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 635,
+		"rental_id" : 635,
+		"inventory_id" : 1648,
+		"film_key" : 360,
+		"staff_key" : 1,
+		"customer_key" : 42,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 636,
+		"rental_id" : 636,
+		"inventory_id" : 4213,
+		"film_key" : 916,
+		"staff_key" : 1,
+		"customer_key" : 239,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 637,
+		"rental_id" : 637,
+		"inventory_id" : 1581,
+		"film_key" : 347,
+		"staff_key" : 2,
+		"customer_key" : 250,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 638,
+		"rental_id" : 638,
+		"inventory_id" : 2685,
+		"film_key" : 589,
+		"staff_key" : 2,
+		"customer_key" : 372,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 639,
+		"rental_id" : 639,
+		"inventory_id" : 4204,
+		"film_key" : 914,
+		"staff_key" : 1,
+		"customer_key" : 198,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 640,
+		"rental_id" : 640,
+		"inventory_id" : 495,
+		"film_key" : 110,
+		"staff_key" : 1,
+		"customer_key" : 465,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 641,
+		"rental_id" : 641,
+		"inventory_id" : 3548,
+		"film_key" : 776,
+		"staff_key" : 1,
+		"customer_key" : 396,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 642,
+		"rental_id" : 642,
+		"inventory_id" : 140,
+		"film_key" : 28,
+		"staff_key" : 2,
+		"customer_key" : 157,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 643,
+		"rental_id" : 643,
+		"inventory_id" : 3105,
+		"film_key" : 682,
+		"staff_key" : 2,
+		"customer_key" : 240,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 644,
+		"rental_id" : 644,
+		"inventory_id" : 4304,
+		"film_key" : 938,
+		"staff_key" : 1,
+		"customer_key" : 316,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 645,
+		"rental_id" : 645,
+		"inventory_id" : 3128,
+		"film_key" : 687,
+		"staff_key" : 1,
+		"customer_key" : 505,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 646,
+		"rental_id" : 646,
+		"inventory_id" : 1922,
+		"film_key" : 417,
+		"staff_key" : 2,
+		"customer_key" : 185,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 647,
+		"rental_id" : 647,
+		"inventory_id" : 3435,
+		"film_key" : 753,
+		"staff_key" : 1,
+		"customer_key" : 569,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 648,
+		"rental_id" : 648,
+		"inventory_id" : 3476,
+		"film_key" : 762,
+		"staff_key" : 2,
+		"customer_key" : 253,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 649,
+		"rental_id" : 649,
+		"inventory_id" : 1781,
+		"film_key" : 387,
+		"staff_key" : 1,
+		"customer_key" : 197,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 650,
+		"rental_id" : 650,
+		"inventory_id" : 4384,
+		"film_key" : 958,
+		"staff_key" : 1,
+		"customer_key" : 281,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 651,
+		"rental_id" : 651,
+		"inventory_id" : 739,
+		"film_key" : 162,
+		"staff_key" : 1,
+		"customer_key" : 266,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 652,
+		"rental_id" : 652,
+		"inventory_id" : 1201,
+		"film_key" : 267,
+		"staff_key" : 2,
+		"customer_key" : 43,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 653,
+		"rental_id" : 653,
+		"inventory_id" : 126,
+		"film_key" : 25,
+		"staff_key" : 2,
+		"customer_key" : 327,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 654,
+		"rental_id" : 654,
+		"inventory_id" : 2312,
+		"film_key" : 502,
+		"staff_key" : 2,
+		"customer_key" : 23,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 655,
+		"rental_id" : 655,
+		"inventory_id" : 331,
+		"film_key" : 73,
+		"staff_key" : 2,
+		"customer_key" : 287,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 656,
+		"rental_id" : 656,
+		"inventory_id" : 2846,
+		"film_key" : 624,
+		"staff_key" : 1,
+		"customer_key" : 437,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 657,
+		"rental_id" : 657,
+		"inventory_id" : 848,
+		"film_key" : 186,
+		"staff_key" : 1,
+		"customer_key" : 65,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 658,
+		"rental_id" : 658,
+		"inventory_id" : 3226,
+		"film_key" : 708,
+		"staff_key" : 2,
+		"customer_key" : 103,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 659,
+		"rental_id" : 659,
+		"inventory_id" : 1382,
+		"film_key" : 303,
+		"staff_key" : 2,
+		"customer_key" : 207,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 660,
+		"rental_id" : 660,
+		"inventory_id" : 1414,
+		"film_key" : 309,
+		"staff_key" : 1,
+		"customer_key" : 578,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 661,
+		"rental_id" : 661,
+		"inventory_id" : 2247,
+		"film_key" : 486,
+		"staff_key" : 2,
+		"customer_key" : 51,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 662,
+		"rental_id" : 662,
+		"inventory_id" : 2968,
+		"film_key" : 650,
+		"staff_key" : 2,
+		"customer_key" : 166,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 663,
+		"rental_id" : 663,
+		"inventory_id" : 3997,
+		"film_key" : 870,
+		"staff_key" : 2,
+		"customer_key" : 176,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 664,
+		"rental_id" : 664,
+		"inventory_id" : 87,
+		"film_key" : 18,
+		"staff_key" : 2,
+		"customer_key" : 523,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 665,
+		"rental_id" : 665,
+		"inventory_id" : 1012,
+		"film_key" : 227,
+		"staff_key" : 1,
+		"customer_key" : 415,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 666,
+		"rental_id" : 666,
+		"inventory_id" : 3075,
+		"film_key" : 676,
+		"staff_key" : 2,
+		"customer_key" : 437,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 667,
+		"rental_id" : 667,
+		"inventory_id" : 797,
+		"film_key" : 174,
+		"staff_key" : 1,
+		"customer_key" : 596,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 668,
+		"rental_id" : 668,
+		"inventory_id" : 3528,
+		"film_key" : 772,
+		"staff_key" : 1,
+		"customer_key" : 484,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 669,
+		"rental_id" : 669,
+		"inventory_id" : 3677,
+		"film_key" : 804,
+		"staff_key" : 1,
+		"customer_key" : 313,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 670,
+		"rental_id" : 670,
+		"inventory_id" : 227,
+		"film_key" : 51,
+		"staff_key" : 2,
+		"customer_key" : 201,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 671,
+		"rental_id" : 671,
+		"inventory_id" : 1027,
+		"film_key" : 230,
+		"staff_key" : 2,
+		"customer_key" : 14,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 672,
+		"rental_id" : 672,
+		"inventory_id" : 697,
+		"film_key" : 152,
+		"staff_key" : 2,
+		"customer_key" : 306,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 673,
+		"rental_id" : 673,
+		"inventory_id" : 1769,
+		"film_key" : 383,
+		"staff_key" : 1,
+		"customer_key" : 468,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 674,
+		"rental_id" : 674,
+		"inventory_id" : 1150,
+		"film_key" : 254,
+		"staff_key" : 2,
+		"customer_key" : 87,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 675,
+		"rental_id" : 675,
+		"inventory_id" : 1273,
+		"film_key" : 282,
+		"staff_key" : 2,
+		"customer_key" : 338,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 676,
+		"rental_id" : 676,
+		"inventory_id" : 2329,
+		"film_key" : 506,
+		"staff_key" : 2,
+		"customer_key" : 490,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 677,
+		"rental_id" : 677,
+		"inventory_id" : 4558,
+		"film_key" : 995,
+		"staff_key" : 2,
+		"customer_key" : 194,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 678,
+		"rental_id" : 678,
+		"inventory_id" : 3741,
+		"film_key" : 818,
+		"staff_key" : 2,
+		"customer_key" : 269,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 679,
+		"rental_id" : 679,
+		"inventory_id" : 907,
+		"film_key" : 201,
+		"staff_key" : 2,
+		"customer_key" : 526,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 680,
+		"rental_id" : 680,
+		"inventory_id" : 4147,
+		"film_key" : 901,
+		"staff_key" : 2,
+		"customer_key" : 482,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 681,
+		"rental_id" : 681,
+		"inventory_id" : 3346,
+		"film_key" : 735,
+		"staff_key" : 1,
+		"customer_key" : 531,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 682,
+		"rental_id" : 682,
+		"inventory_id" : 3160,
+		"film_key" : 694,
+		"staff_key" : 2,
+		"customer_key" : 148,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050529
+	},
+	{
+		"rental_key" : 683,
+		"rental_id" : 683,
+		"inventory_id" : 2038,
+		"film_key" : 443,
+		"staff_key" : 1,
+		"customer_key" : 197,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 684,
+		"rental_id" : 684,
+		"inventory_id" : 3242,
+		"film_key" : 711,
+		"staff_key" : 2,
+		"customer_key" : 461,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 685,
+		"rental_id" : 685,
+		"inventory_id" : 1385,
+		"film_key" : 304,
+		"staff_key" : 2,
+		"customer_key" : 172,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 686,
+		"rental_id" : 686,
+		"inventory_id" : 2441,
+		"film_key" : 532,
+		"staff_key" : 1,
+		"customer_key" : 411,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 687,
+		"rental_id" : 687,
+		"inventory_id" : 1731,
+		"film_key" : 377,
+		"staff_key" : 1,
+		"customer_key" : 250,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 688,
+		"rental_id" : 688,
+		"inventory_id" : 4135,
+		"film_key" : 898,
+		"staff_key" : 1,
+		"customer_key" : 162,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 689,
+		"rental_id" : 689,
+		"inventory_id" : 742,
+		"film_key" : 162,
+		"staff_key" : 2,
+		"customer_key" : 571,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 690,
+		"rental_id" : 690,
+		"inventory_id" : 2646,
+		"film_key" : 580,
+		"staff_key" : 1,
+		"customer_key" : 85,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 691,
+		"rental_id" : 691,
+		"inventory_id" : 4034,
+		"film_key" : 879,
+		"staff_key" : 1,
+		"customer_key" : 433,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 692,
+		"rental_id" : 692,
+		"inventory_id" : 800,
+		"film_key" : 174,
+		"staff_key" : 2,
+		"customer_key" : 18,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 693,
+		"rental_id" : 693,
+		"inventory_id" : 635,
+		"film_key" : 138,
+		"staff_key" : 2,
+		"customer_key" : 190,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 694,
+		"rental_id" : 694,
+		"inventory_id" : 592,
+		"film_key" : 129,
+		"staff_key" : 1,
+		"customer_key" : 399,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 695,
+		"rental_id" : 695,
+		"inventory_id" : 4276,
+		"film_key" : 930,
+		"staff_key" : 1,
+		"customer_key" : 528,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 696,
+		"rental_id" : 696,
+		"inventory_id" : 2076,
+		"film_key" : 450,
+		"staff_key" : 1,
+		"customer_key" : 19,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 697,
+		"rental_id" : 697,
+		"inventory_id" : 3949,
+		"film_key" : 861,
+		"staff_key" : 2,
+		"customer_key" : 387,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 698,
+		"rental_id" : 698,
+		"inventory_id" : 1412,
+		"film_key" : 309,
+		"staff_key" : 1,
+		"customer_key" : 109,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 699,
+		"rental_id" : 699,
+		"inventory_id" : 130,
+		"film_key" : 26,
+		"staff_key" : 2,
+		"customer_key" : 246,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 700,
+		"rental_id" : 700,
+		"inventory_id" : 500,
+		"film_key" : 111,
+		"staff_key" : 1,
+		"customer_key" : 117,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 701,
+		"rental_id" : 701,
+		"inventory_id" : 372,
+		"film_key" : 82,
+		"staff_key" : 1,
+		"customer_key" : 112,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 702,
+		"rental_id" : 702,
+		"inventory_id" : 2556,
+		"film_key" : 560,
+		"staff_key" : 2,
+		"customer_key" : 475,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 703,
+		"rental_id" : 703,
+		"inventory_id" : 1123,
+		"film_key" : 249,
+		"staff_key" : 2,
+		"customer_key" : 269,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 704,
+		"rental_id" : 704,
+		"inventory_id" : 2628,
+		"film_key" : 576,
+		"staff_key" : 2,
+		"customer_key" : 330,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 705,
+		"rental_id" : 705,
+		"inventory_id" : 2809,
+		"film_key" : 616,
+		"staff_key" : 1,
+		"customer_key" : 257,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 706,
+		"rental_id" : 706,
+		"inventory_id" : 2278,
+		"film_key" : 493,
+		"staff_key" : 1,
+		"customer_key" : 60,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 707,
+		"rental_id" : 707,
+		"inventory_id" : 819,
+		"film_key" : 179,
+		"staff_key" : 1,
+		"customer_key" : 252,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 708,
+		"rental_id" : 708,
+		"inventory_id" : 3133,
+		"film_key" : 688,
+		"staff_key" : 2,
+		"customer_key" : 127,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 709,
+		"rental_id" : 709,
+		"inventory_id" : 2459,
+		"film_key" : 537,
+		"staff_key" : 1,
+		"customer_key" : 479,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 710,
+		"rental_id" : 710,
+		"inventory_id" : 194,
+		"film_key" : 43,
+		"staff_key" : 1,
+		"customer_key" : 518,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 711,
+		"rental_id" : 711,
+		"inventory_id" : 4581,
+		"film_key" : 1000,
+		"staff_key" : 2,
+		"customer_key" : 215,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 712,
+		"rental_id" : 712,
+		"inventory_id" : 4191,
+		"film_key" : 912,
+		"staff_key" : 2,
+		"customer_key" : 313,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 713,
+		"rental_id" : 713,
+		"inventory_id" : 3664,
+		"film_key" : 800,
+		"staff_key" : 1,
+		"customer_key" : 507,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 714,
+		"rental_id" : 714,
+		"inventory_id" : 2010,
+		"film_key" : 437,
+		"staff_key" : 2,
+		"customer_key" : 452,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 715,
+		"rental_id" : 715,
+		"inventory_id" : 2030,
+		"film_key" : 442,
+		"staff_key" : 1,
+		"customer_key" : 545,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 716,
+		"rental_id" : 716,
+		"inventory_id" : 85,
+		"film_key" : 17,
+		"staff_key" : 2,
+		"customer_key" : 36,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 717,
+		"rental_id" : 717,
+		"inventory_id" : 1383,
+		"film_key" : 303,
+		"staff_key" : 2,
+		"customer_key" : 412,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 718,
+		"rental_id" : 718,
+		"inventory_id" : 1736,
+		"film_key" : 378,
+		"staff_key" : 1,
+		"customer_key" : 498,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 719,
+		"rental_id" : 719,
+		"inventory_id" : 267,
+		"film_key" : 59,
+		"staff_key" : 2,
+		"customer_key" : 245,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 720,
+		"rental_id" : 720,
+		"inventory_id" : 3687,
+		"film_key" : 806,
+		"staff_key" : 2,
+		"customer_key" : 480,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 721,
+		"rental_id" : 721,
+		"inventory_id" : 1116,
+		"film_key" : 247,
+		"staff_key" : 1,
+		"customer_key" : 44,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 722,
+		"rental_id" : 722,
+		"inventory_id" : 4540,
+		"film_key" : 991,
+		"staff_key" : 1,
+		"customer_key" : 259,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 723,
+		"rental_id" : 723,
+		"inventory_id" : 3407,
+		"film_key" : 747,
+		"staff_key" : 1,
+		"customer_key" : 309,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 724,
+		"rental_id" : 724,
+		"inventory_id" : 3770,
+		"film_key" : 825,
+		"staff_key" : 2,
+		"customer_key" : 416,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 725,
+		"rental_id" : 725,
+		"inventory_id" : 4088,
+		"film_key" : 891,
+		"staff_key" : 2,
+		"customer_key" : 245,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 726,
+		"rental_id" : 726,
+		"inventory_id" : 933,
+		"film_key" : 206,
+		"staff_key" : 2,
+		"customer_key" : 452,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 727,
+		"rental_id" : 727,
+		"inventory_id" : 1629,
+		"film_key" : 356,
+		"staff_key" : 1,
+		"customer_key" : 484,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 728,
+		"rental_id" : 728,
+		"inventory_id" : 242,
+		"film_key" : 55,
+		"staff_key" : 1,
+		"customer_key" : 551,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 729,
+		"rental_id" : 729,
+		"inventory_id" : 1688,
+		"film_key" : 368,
+		"staff_key" : 2,
+		"customer_key" : 323,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 730,
+		"rental_id" : 730,
+		"inventory_id" : 3473,
+		"film_key" : 761,
+		"staff_key" : 1,
+		"customer_key" : 197,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 731,
+		"rental_id" : 731,
+		"inventory_id" : 4124,
+		"film_key" : 896,
+		"staff_key" : 1,
+		"customer_key" : 5,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 732,
+		"rental_id" : 732,
+		"inventory_id" : 2530,
+		"film_key" : 555,
+		"staff_key" : 2,
+		"customer_key" : 447,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 733,
+		"rental_id" : 733,
+		"inventory_id" : 2951,
+		"film_key" : 647,
+		"staff_key" : 1,
+		"customer_key" : 363,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 734,
+		"rental_id" : 734,
+		"inventory_id" : 3084,
+		"film_key" : 678,
+		"staff_key" : 2,
+		"customer_key" : 538,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 735,
+		"rental_id" : 735,
+		"inventory_id" : 3421,
+		"film_key" : 749,
+		"staff_key" : 1,
+		"customer_key" : 454,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 736,
+		"rental_id" : 736,
+		"inventory_id" : 3689,
+		"film_key" : 807,
+		"staff_key" : 2,
+		"customer_key" : 276,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 737,
+		"rental_id" : 737,
+		"inventory_id" : 769,
+		"film_key" : 167,
+		"staff_key" : 2,
+		"customer_key" : 589,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 738,
+		"rental_id" : 738,
+		"inventory_id" : 2284,
+		"film_key" : 494,
+		"staff_key" : 2,
+		"customer_key" : 256,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 739,
+		"rental_id" : 739,
+		"inventory_id" : 1183,
+		"film_key" : 263,
+		"staff_key" : 2,
+		"customer_key" : 84,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 740,
+		"rental_id" : 740,
+		"inventory_id" : 600,
+		"film_key" : 131,
+		"staff_key" : 2,
+		"customer_key" : 89,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 741,
+		"rental_id" : 741,
+		"inventory_id" : 3189,
+		"film_key" : 700,
+		"staff_key" : 1,
+		"customer_key" : 495,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 742,
+		"rental_id" : 742,
+		"inventory_id" : 273,
+		"film_key" : 61,
+		"staff_key" : 1,
+		"customer_key" : 483,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 743,
+		"rental_id" : 743,
+		"inventory_id" : 2528,
+		"film_key" : 555,
+		"staff_key" : 2,
+		"customer_key" : 548,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 744,
+		"rental_id" : 744,
+		"inventory_id" : 3722,
+		"film_key" : 814,
+		"staff_key" : 2,
+		"customer_key" : 420,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 745,
+		"rental_id" : 745,
+		"inventory_id" : 581,
+		"film_key" : 127,
+		"staff_key" : 1,
+		"customer_key" : 152,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 746,
+		"rental_id" : 746,
+		"inventory_id" : 4272,
+		"film_key" : 930,
+		"staff_key" : 2,
+		"customer_key" : 130,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 747,
+		"rental_id" : 747,
+		"inventory_id" : 1993,
+		"film_key" : 434,
+		"staff_key" : 1,
+		"customer_key" : 291,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 748,
+		"rental_id" : 748,
+		"inventory_id" : 2803,
+		"film_key" : 615,
+		"staff_key" : 1,
+		"customer_key" : 7,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 749,
+		"rental_id" : 749,
+		"inventory_id" : 1146,
+		"film_key" : 253,
+		"staff_key" : 2,
+		"customer_key" : 375,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 750,
+		"rental_id" : 750,
+		"inventory_id" : 730,
+		"film_key" : 159,
+		"staff_key" : 1,
+		"customer_key" : 269,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 751,
+		"rental_id" : 751,
+		"inventory_id" : 2711,
+		"film_key" : 595,
+		"staff_key" : 1,
+		"customer_key" : 53,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 752,
+		"rental_id" : 752,
+		"inventory_id" : 1720,
+		"film_key" : 375,
+		"staff_key" : 1,
+		"customer_key" : 126,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 753,
+		"rental_id" : 753,
+		"inventory_id" : 1021,
+		"film_key" : 228,
+		"staff_key" : 2,
+		"customer_key" : 135,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 754,
+		"rental_id" : 754,
+		"inventory_id" : 734,
+		"film_key" : 160,
+		"staff_key" : 2,
+		"customer_key" : 281,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 755,
+		"rental_id" : 755,
+		"inventory_id" : 3090,
+		"film_key" : 679,
+		"staff_key" : 2,
+		"customer_key" : 576,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 756,
+		"rental_id" : 756,
+		"inventory_id" : 3152,
+		"film_key" : 692,
+		"staff_key" : 1,
+		"customer_key" : 201,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 757,
+		"rental_id" : 757,
+		"inventory_id" : 1067,
+		"film_key" : 238,
+		"staff_key" : 1,
+		"customer_key" : 435,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 758,
+		"rental_id" : 758,
+		"inventory_id" : 1191,
+		"film_key" : 265,
+		"staff_key" : 2,
+		"customer_key" : 563,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 759,
+		"rental_id" : 759,
+		"inventory_id" : 2367,
+		"film_key" : 515,
+		"staff_key" : 2,
+		"customer_key" : 179,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 760,
+		"rental_id" : 760,
+		"inventory_id" : 3250,
+		"film_key" : 715,
+		"staff_key" : 1,
+		"customer_key" : 77,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 761,
+		"rental_id" : 761,
+		"inventory_id" : 2342,
+		"film_key" : 509,
+		"staff_key" : 2,
+		"customer_key" : 58,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 762,
+		"rental_id" : 762,
+		"inventory_id" : 3683,
+		"film_key" : 805,
+		"staff_key" : 1,
+		"customer_key" : 146,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 763,
+		"rental_id" : 763,
+		"inventory_id" : 2022,
+		"film_key" : 439,
+		"staff_key" : 1,
+		"customer_key" : 50,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 764,
+		"rental_id" : 764,
+		"inventory_id" : 1069,
+		"film_key" : 239,
+		"staff_key" : 1,
+		"customer_key" : 149,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 765,
+		"rental_id" : 765,
+		"inventory_id" : 515,
+		"film_key" : 114,
+		"staff_key" : 1,
+		"customer_key" : 69,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 766,
+		"rental_id" : 766,
+		"inventory_id" : 2154,
+		"film_key" : 465,
+		"staff_key" : 1,
+		"customer_key" : 383,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 767,
+		"rental_id" : 767,
+		"inventory_id" : 687,
+		"film_key" : 150,
+		"staff_key" : 2,
+		"customer_key" : 67,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 768,
+		"rental_id" : 768,
+		"inventory_id" : 2895,
+		"film_key" : 636,
+		"staff_key" : 2,
+		"customer_key" : 566,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 769,
+		"rental_id" : 769,
+		"inventory_id" : 1523,
+		"film_key" : 333,
+		"staff_key" : 1,
+		"customer_key" : 575,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 770,
+		"rental_id" : 770,
+		"inventory_id" : 2491,
+		"film_key" : 546,
+		"staff_key" : 2,
+		"customer_key" : 405,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 771,
+		"rental_id" : 771,
+		"inventory_id" : 353,
+		"film_key" : 78,
+		"staff_key" : 2,
+		"customer_key" : 476,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 772,
+		"rental_id" : 772,
+		"inventory_id" : 3319,
+		"film_key" : 730,
+		"staff_key" : 1,
+		"customer_key" : 556,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 773,
+		"rental_id" : 773,
+		"inventory_id" : 245,
+		"film_key" : 55,
+		"staff_key" : 1,
+		"customer_key" : 563,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 774,
+		"rental_id" : 774,
+		"inventory_id" : 1188,
+		"film_key" : 265,
+		"staff_key" : 1,
+		"customer_key" : 575,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 775,
+		"rental_id" : 775,
+		"inventory_id" : 1197,
+		"film_key" : 266,
+		"staff_key" : 2,
+		"customer_key" : 124,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 776,
+		"rental_id" : 776,
+		"inventory_id" : 4339,
+		"film_key" : 945,
+		"staff_key" : 1,
+		"customer_key" : 113,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 777,
+		"rental_id" : 777,
+		"inventory_id" : 451,
+		"film_key" : 100,
+		"staff_key" : 2,
+		"customer_key" : 360,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 778,
+		"rental_id" : 778,
+		"inventory_id" : 1816,
+		"film_key" : 395,
+		"staff_key" : 1,
+		"customer_key" : 535,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 779,
+		"rental_id" : 779,
+		"inventory_id" : 533,
+		"film_key" : 117,
+		"staff_key" : 1,
+		"customer_key" : 105,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 780,
+		"rental_id" : 780,
+		"inventory_id" : 1919,
+		"film_key" : 417,
+		"staff_key" : 1,
+		"customer_key" : 300,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 781,
+		"rental_id" : 781,
+		"inventory_id" : 88,
+		"film_key" : 18,
+		"staff_key" : 1,
+		"customer_key" : 313,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 782,
+		"rental_id" : 782,
+		"inventory_id" : 2255,
+		"film_key" : 488,
+		"staff_key" : 2,
+		"customer_key" : 596,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 783,
+		"rental_id" : 783,
+		"inventory_id" : 3046,
+		"film_key" : 668,
+		"staff_key" : 2,
+		"customer_key" : 53,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 784,
+		"rental_id" : 784,
+		"inventory_id" : 2936,
+		"film_key" : 645,
+		"staff_key" : 2,
+		"customer_key" : 352,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 785,
+		"rental_id" : 785,
+		"inventory_id" : 39,
+		"film_key" : 8,
+		"staff_key" : 1,
+		"customer_key" : 72,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 786,
+		"rental_id" : 786,
+		"inventory_id" : 2637,
+		"film_key" : 578,
+		"staff_key" : 2,
+		"customer_key" : 439,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 787,
+		"rental_id" : 787,
+		"inventory_id" : 3919,
+		"film_key" : 855,
+		"staff_key" : 2,
+		"customer_key" : 27,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 788,
+		"rental_id" : 788,
+		"inventory_id" : 763,
+		"film_key" : 166,
+		"staff_key" : 1,
+		"customer_key" : 562,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 789,
+		"rental_id" : 789,
+		"inventory_id" : 708,
+		"film_key" : 154,
+		"staff_key" : 1,
+		"customer_key" : 553,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 790,
+		"rental_id" : 790,
+		"inventory_id" : 2858,
+		"film_key" : 626,
+		"staff_key" : 2,
+		"customer_key" : 593,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 791,
+		"rental_id" : 791,
+		"inventory_id" : 1554,
+		"film_key" : 341,
+		"staff_key" : 1,
+		"customer_key" : 284,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 792,
+		"rental_id" : 792,
+		"inventory_id" : 2841,
+		"film_key" : 623,
+		"staff_key" : 1,
+		"customer_key" : 261,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 793,
+		"rental_id" : 793,
+		"inventory_id" : 379,
+		"film_key" : 84,
+		"staff_key" : 2,
+		"customer_key" : 528,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 794,
+		"rental_id" : 794,
+		"inventory_id" : 1995,
+		"film_key" : 434,
+		"staff_key" : 1,
+		"customer_key" : 50,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 795,
+		"rental_id" : 795,
+		"inventory_id" : 609,
+		"film_key" : 132,
+		"staff_key" : 2,
+		"customer_key" : 551,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 796,
+		"rental_id" : 796,
+		"inventory_id" : 2697,
+		"film_key" : 592,
+		"staff_key" : 2,
+		"customer_key" : 26,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 797,
+		"rental_id" : 797,
+		"inventory_id" : 1446,
+		"film_key" : 317,
+		"staff_key" : 1,
+		"customer_key" : 244,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 798,
+		"rental_id" : 798,
+		"inventory_id" : 1102,
+		"film_key" : 245,
+		"staff_key" : 2,
+		"customer_key" : 134,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 799,
+		"rental_id" : 799,
+		"inventory_id" : 1713,
+		"film_key" : 374,
+		"staff_key" : 1,
+		"customer_key" : 429,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 800,
+		"rental_id" : 800,
+		"inventory_id" : 441,
+		"film_key" : 97,
+		"staff_key" : 1,
+		"customer_key" : 472,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 801,
+		"rental_id" : 801,
+		"inventory_id" : 1642,
+		"film_key" : 358,
+		"staff_key" : 2,
+		"customer_key" : 402,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 802,
+		"rental_id" : 802,
+		"inventory_id" : 785,
+		"film_key" : 172,
+		"staff_key" : 2,
+		"customer_key" : 350,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 803,
+		"rental_id" : 803,
+		"inventory_id" : 1602,
+		"film_key" : 350,
+		"staff_key" : 2,
+		"customer_key" : 32,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 804,
+		"rental_id" : 804,
+		"inventory_id" : 3909,
+		"film_key" : 853,
+		"staff_key" : 1,
+		"customer_key" : 171,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 805,
+		"rental_id" : 805,
+		"inventory_id" : 3132,
+		"film_key" : 688,
+		"staff_key" : 2,
+		"customer_key" : 232,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 806,
+		"rental_id" : 806,
+		"inventory_id" : 2386,
+		"film_key" : 521,
+		"staff_key" : 2,
+		"customer_key" : 435,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 807,
+		"rental_id" : 807,
+		"inventory_id" : 2195,
+		"film_key" : 474,
+		"staff_key" : 2,
+		"customer_key" : 235,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 808,
+		"rental_id" : 808,
+		"inventory_id" : 1928,
+		"film_key" : 418,
+		"staff_key" : 2,
+		"customer_key" : 104,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 809,
+		"rental_id" : 809,
+		"inventory_id" : 2114,
+		"film_key" : 458,
+		"staff_key" : 2,
+		"customer_key" : 222,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 810,
+		"rental_id" : 810,
+		"inventory_id" : 2533,
+		"film_key" : 556,
+		"staff_key" : 2,
+		"customer_key" : 346,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 811,
+		"rental_id" : 811,
+		"inventory_id" : 4419,
+		"film_key" : 966,
+		"staff_key" : 2,
+		"customer_key" : 401,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 812,
+		"rental_id" : 812,
+		"inventory_id" : 1099,
+		"film_key" : 244,
+		"staff_key" : 2,
+		"customer_key" : 225,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 813,
+		"rental_id" : 813,
+		"inventory_id" : 4554,
+		"film_key" : 994,
+		"staff_key" : 1,
+		"customer_key" : 344,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 814,
+		"rental_id" : 814,
+		"inventory_id" : 1572,
+		"film_key" : 345,
+		"staff_key" : 1,
+		"customer_key" : 134,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 815,
+		"rental_id" : 815,
+		"inventory_id" : 3757,
+		"film_key" : 822,
+		"staff_key" : 1,
+		"customer_key" : 14,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 816,
+		"rental_id" : 816,
+		"inventory_id" : 630,
+		"film_key" : 137,
+		"staff_key" : 2,
+		"customer_key" : 474,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 817,
+		"rental_id" : 817,
+		"inventory_id" : 186,
+		"film_key" : 42,
+		"staff_key" : 1,
+		"customer_key" : 554,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 818,
+		"rental_id" : 818,
+		"inventory_id" : 4106,
+		"film_key" : 893,
+		"staff_key" : 2,
+		"customer_key" : 321,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 819,
+		"rental_id" : 819,
+		"inventory_id" : 623,
+		"film_key" : 135,
+		"staff_key" : 2,
+		"customer_key" : 511,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 820,
+		"rental_id" : 820,
+		"inventory_id" : 2584,
+		"film_key" : 567,
+		"staff_key" : 2,
+		"customer_key" : 22,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 821,
+		"rental_id" : 821,
+		"inventory_id" : 3380,
+		"film_key" : 741,
+		"staff_key" : 1,
+		"customer_key" : 348,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 822,
+		"rental_id" : 822,
+		"inventory_id" : 2634,
+		"film_key" : 578,
+		"staff_key" : 1,
+		"customer_key" : 480,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 823,
+		"rental_id" : 823,
+		"inventory_id" : 3249,
+		"film_key" : 715,
+		"staff_key" : 1,
+		"customer_key" : 441,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 824,
+		"rental_id" : 824,
+		"inventory_id" : 3518,
+		"film_key" : 771,
+		"staff_key" : 1,
+		"customer_key" : 357,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 825,
+		"rental_id" : 825,
+		"inventory_id" : 712,
+		"film_key" : 155,
+		"staff_key" : 2,
+		"customer_key" : 371,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 826,
+		"rental_id" : 826,
+		"inventory_id" : 2263,
+		"film_key" : 489,
+		"staff_key" : 1,
+		"customer_key" : 207,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 827,
+		"rental_id" : 827,
+		"inventory_id" : 62,
+		"film_key" : 12,
+		"staff_key" : 1,
+		"customer_key" : 573,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 828,
+		"rental_id" : 828,
+		"inventory_id" : 2468,
+		"film_key" : 540,
+		"staff_key" : 1,
+		"customer_key" : 217,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 829,
+		"rental_id" : 829,
+		"inventory_id" : 1684,
+		"film_key" : 367,
+		"staff_key" : 1,
+		"customer_key" : 371,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 830,
+		"rental_id" : 830,
+		"inventory_id" : 3464,
+		"film_key" : 759,
+		"staff_key" : 1,
+		"customer_key" : 3,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 831,
+		"rental_id" : 831,
+		"inventory_id" : 3912,
+		"film_key" : 854,
+		"staff_key" : 1,
+		"customer_key" : 509,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 832,
+		"rental_id" : 832,
+		"inventory_id" : 1381,
+		"film_key" : 303,
+		"staff_key" : 2,
+		"customer_key" : 159,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 833,
+		"rental_id" : 833,
+		"inventory_id" : 2898,
+		"film_key" : 637,
+		"staff_key" : 1,
+		"customer_key" : 417,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 834,
+		"rental_id" : 834,
+		"inventory_id" : 3628,
+		"film_key" : 791,
+		"staff_key" : 2,
+		"customer_key" : 84,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050530
+	},
+	{
+		"rental_key" : 835,
+		"rental_id" : 835,
+		"inventory_id" : 299,
+		"film_key" : 67,
+		"staff_key" : 1,
+		"customer_key" : 381,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 836,
+		"rental_id" : 836,
+		"inventory_id" : 3140,
+		"film_key" : 690,
+		"staff_key" : 2,
+		"customer_key" : 368,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 837,
+		"rental_id" : 837,
+		"inventory_id" : 977,
+		"film_key" : 218,
+		"staff_key" : 2,
+		"customer_key" : 172,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 838,
+		"rental_id" : 838,
+		"inventory_id" : 2859,
+		"film_key" : 626,
+		"staff_key" : 2,
+		"customer_key" : 504,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 839,
+		"rental_id" : 839,
+		"inventory_id" : 1886,
+		"film_key" : 411,
+		"staff_key" : 1,
+		"customer_key" : 337,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 840,
+		"rental_id" : 840,
+		"inventory_id" : 4049,
+		"film_key" : 881,
+		"staff_key" : 2,
+		"customer_key" : 79,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 841,
+		"rental_id" : 841,
+		"inventory_id" : 4318,
+		"film_key" : 941,
+		"staff_key" : 1,
+		"customer_key" : 387,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 842,
+		"rental_id" : 842,
+		"inventory_id" : 2328,
+		"film_key" : 505,
+		"staff_key" : 1,
+		"customer_key" : 238,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 843,
+		"rental_id" : 843,
+		"inventory_id" : 2214,
+		"film_key" : 479,
+		"staff_key" : 2,
+		"customer_key" : 313,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 844,
+		"rental_id" : 844,
+		"inventory_id" : 536,
+		"film_key" : 117,
+		"staff_key" : 1,
+		"customer_key" : 429,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 845,
+		"rental_id" : 845,
+		"inventory_id" : 2001,
+		"film_key" : 436,
+		"staff_key" : 1,
+		"customer_key" : 72,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 846,
+		"rental_id" : 846,
+		"inventory_id" : 938,
+		"film_key" : 208,
+		"staff_key" : 2,
+		"customer_key" : 49,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 847,
+		"rental_id" : 847,
+		"inventory_id" : 4387,
+		"film_key" : 958,
+		"staff_key" : 2,
+		"customer_key" : 380,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 848,
+		"rental_id" : 848,
+		"inventory_id" : 1363,
+		"film_key" : 300,
+		"staff_key" : 1,
+		"customer_key" : 436,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 849,
+		"rental_id" : 849,
+		"inventory_id" : 2424,
+		"film_key" : 529,
+		"staff_key" : 1,
+		"customer_key" : 449,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 850,
+		"rental_id" : 850,
+		"inventory_id" : 2390,
+		"film_key" : 521,
+		"staff_key" : 1,
+		"customer_key" : 517,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 851,
+		"rental_id" : 851,
+		"inventory_id" : 2780,
+		"film_key" : 610,
+		"staff_key" : 1,
+		"customer_key" : 530,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 852,
+		"rental_id" : 852,
+		"inventory_id" : 1622,
+		"film_key" : 354,
+		"staff_key" : 1,
+		"customer_key" : 549,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 853,
+		"rental_id" : 853,
+		"inventory_id" : 3693,
+		"film_key" : 807,
+		"staff_key" : 1,
+		"customer_key" : 122,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 854,
+		"rental_id" : 854,
+		"inventory_id" : 921,
+		"film_key" : 204,
+		"staff_key" : 2,
+		"customer_key" : 369,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 855,
+		"rental_id" : 855,
+		"inventory_id" : 2527,
+		"film_key" : 555,
+		"staff_key" : 2,
+		"customer_key" : 406,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 856,
+		"rental_id" : 856,
+		"inventory_id" : 3969,
+		"film_key" : 865,
+		"staff_key" : 1,
+		"customer_key" : 53,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 857,
+		"rental_id" : 857,
+		"inventory_id" : 2569,
+		"film_key" : 563,
+		"staff_key" : 2,
+		"customer_key" : 204,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 858,
+		"rental_id" : 858,
+		"inventory_id" : 1258,
+		"film_key" : 279,
+		"staff_key" : 1,
+		"customer_key" : 358,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 859,
+		"rental_id" : 859,
+		"inventory_id" : 3032,
+		"film_key" : 665,
+		"staff_key" : 2,
+		"customer_key" : 79,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 860,
+		"rental_id" : 860,
+		"inventory_id" : 578,
+		"film_key" : 126,
+		"staff_key" : 1,
+		"customer_key" : 276,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 861,
+		"rental_id" : 861,
+		"inventory_id" : 3711,
+		"film_key" : 812,
+		"staff_key" : 1,
+		"customer_key" : 502,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 862,
+		"rental_id" : 862,
+		"inventory_id" : 1186,
+		"film_key" : 264,
+		"staff_key" : 1,
+		"customer_key" : 328,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 863,
+		"rental_id" : 863,
+		"inventory_id" : 3999,
+		"film_key" : 871,
+		"staff_key" : 2,
+		"customer_key" : 379,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 864,
+		"rental_id" : 864,
+		"inventory_id" : 2777,
+		"film_key" : 609,
+		"staff_key" : 1,
+		"customer_key" : 544,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 865,
+		"rental_id" : 865,
+		"inventory_id" : 3183,
+		"film_key" : 698,
+		"staff_key" : 2,
+		"customer_key" : 154,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 866,
+		"rental_id" : 866,
+		"inventory_id" : 2867,
+		"film_key" : 628,
+		"staff_key" : 1,
+		"customer_key" : 8,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 867,
+		"rental_id" : 867,
+		"inventory_id" : 3389,
+		"film_key" : 744,
+		"staff_key" : 1,
+		"customer_key" : 99,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 868,
+		"rental_id" : 868,
+		"inventory_id" : 3604,
+		"film_key" : 788,
+		"staff_key" : 1,
+		"customer_key" : 28,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 869,
+		"rental_id" : 869,
+		"inventory_id" : 3399,
+		"film_key" : 745,
+		"staff_key" : 2,
+		"customer_key" : 296,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 870,
+		"rental_id" : 870,
+		"inventory_id" : 2903,
+		"film_key" : 638,
+		"staff_key" : 1,
+		"customer_key" : 391,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 871,
+		"rental_id" : 871,
+		"inventory_id" : 4573,
+		"film_key" : 999,
+		"staff_key" : 2,
+		"customer_key" : 303,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 872,
+		"rental_id" : 872,
+		"inventory_id" : 3904,
+		"film_key" : 852,
+		"staff_key" : 1,
+		"customer_key" : 548,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 873,
+		"rental_id" : 873,
+		"inventory_id" : 4568,
+		"film_key" : 998,
+		"staff_key" : 2,
+		"customer_key" : 375,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 874,
+		"rental_id" : 874,
+		"inventory_id" : 363,
+		"film_key" : 79,
+		"staff_key" : 1,
+		"customer_key" : 52,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 875,
+		"rental_id" : 875,
+		"inventory_id" : 1428,
+		"film_key" : 313,
+		"staff_key" : 2,
+		"customer_key" : 326,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 876,
+		"rental_id" : 876,
+		"inventory_id" : 1471,
+		"film_key" : 322,
+		"staff_key" : 2,
+		"customer_key" : 339,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 877,
+		"rental_id" : 877,
+		"inventory_id" : 886,
+		"film_key" : 196,
+		"staff_key" : 1,
+		"customer_key" : 9,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 878,
+		"rental_id" : 878,
+		"inventory_id" : 4265,
+		"film_key" : 928,
+		"staff_key" : 1,
+		"customer_key" : 323,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 879,
+		"rental_id" : 879,
+		"inventory_id" : 4021,
+		"film_key" : 875,
+		"staff_key" : 2,
+		"customer_key" : 482,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 880,
+		"rental_id" : 880,
+		"inventory_id" : 1819,
+		"film_key" : 395,
+		"staff_key" : 2,
+		"customer_key" : 460,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 881,
+		"rental_id" : 881,
+		"inventory_id" : 602,
+		"film_key" : 131,
+		"staff_key" : 1,
+		"customer_key" : 242,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 882,
+		"rental_id" : 882,
+		"inventory_id" : 3841,
+		"film_key" : 841,
+		"staff_key" : 1,
+		"customer_key" : 477,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 883,
+		"rental_id" : 883,
+		"inventory_id" : 2271,
+		"film_key" : 491,
+		"staff_key" : 2,
+		"customer_key" : 399,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 884,
+		"rental_id" : 884,
+		"inventory_id" : 4079,
+		"film_key" : 889,
+		"staff_key" : 1,
+		"customer_key" : 17,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 885,
+		"rental_id" : 885,
+		"inventory_id" : 646,
+		"film_key" : 140,
+		"staff_key" : 2,
+		"customer_key" : 62,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 886,
+		"rental_id" : 886,
+		"inventory_id" : 4356,
+		"film_key" : 949,
+		"staff_key" : 2,
+		"customer_key" : 393,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 887,
+		"rental_id" : 887,
+		"inventory_id" : 2727,
+		"film_key" : 598,
+		"staff_key" : 2,
+		"customer_key" : 16,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 888,
+		"rental_id" : 888,
+		"inventory_id" : 387,
+		"film_key" : 86,
+		"staff_key" : 1,
+		"customer_key" : 128,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 889,
+		"rental_id" : 889,
+		"inventory_id" : 1299,
+		"film_key" : 286,
+		"staff_key" : 2,
+		"customer_key" : 114,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 890,
+		"rental_id" : 890,
+		"inventory_id" : 1464,
+		"film_key" : 320,
+		"staff_key" : 1,
+		"customer_key" : 349,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 891,
+		"rental_id" : 891,
+		"inventory_id" : 2611,
+		"film_key" : 572,
+		"staff_key" : 1,
+		"customer_key" : 391,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 892,
+		"rental_id" : 892,
+		"inventory_id" : 471,
+		"film_key" : 103,
+		"staff_key" : 1,
+		"customer_key" : 274,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 893,
+		"rental_id" : 893,
+		"inventory_id" : 3260,
+		"film_key" : 717,
+		"staff_key" : 2,
+		"customer_key" : 502,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 894,
+		"rental_id" : 894,
+		"inventory_id" : 1118,
+		"film_key" : 247,
+		"staff_key" : 1,
+		"customer_key" : 400,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 895,
+		"rental_id" : 895,
+		"inventory_id" : 2744,
+		"film_key" : 602,
+		"staff_key" : 1,
+		"customer_key" : 192,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 896,
+		"rental_id" : 896,
+		"inventory_id" : 2817,
+		"film_key" : 619,
+		"staff_key" : 2,
+		"customer_key" : 207,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 897,
+		"rental_id" : 897,
+		"inventory_id" : 1334,
+		"film_key" : 294,
+		"staff_key" : 1,
+		"customer_key" : 432,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 898,
+		"rental_id" : 898,
+		"inventory_id" : 3497,
+		"film_key" : 766,
+		"staff_key" : 2,
+		"customer_key" : 384,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 899,
+		"rental_id" : 899,
+		"inventory_id" : 1096,
+		"film_key" : 244,
+		"staff_key" : 2,
+		"customer_key" : 156,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 900,
+		"rental_id" : 900,
+		"inventory_id" : 3543,
+		"film_key" : 775,
+		"staff_key" : 1,
+		"customer_key" : 586,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 901,
+		"rental_id" : 901,
+		"inventory_id" : 760,
+		"film_key" : 166,
+		"staff_key" : 1,
+		"customer_key" : 259,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 902,
+		"rental_id" : 902,
+		"inventory_id" : 1514,
+		"film_key" : 331,
+		"staff_key" : 1,
+		"customer_key" : 561,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 903,
+		"rental_id" : 903,
+		"inventory_id" : 2423,
+		"film_key" : 529,
+		"staff_key" : 1,
+		"customer_key" : 197,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 904,
+		"rental_id" : 904,
+		"inventory_id" : 2466,
+		"film_key" : 539,
+		"staff_key" : 2,
+		"customer_key" : 44,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 905,
+		"rental_id" : 905,
+		"inventory_id" : 4372,
+		"film_key" : 953,
+		"staff_key" : 1,
+		"customer_key" : 50,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 906,
+		"rental_id" : 906,
+		"inventory_id" : 1862,
+		"film_key" : 406,
+		"staff_key" : 2,
+		"customer_key" : 549,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 907,
+		"rental_id" : 907,
+		"inventory_id" : 3320,
+		"film_key" : 730,
+		"staff_key" : 1,
+		"customer_key" : 506,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 908,
+		"rental_id" : 908,
+		"inventory_id" : 4427,
+		"film_key" : 968,
+		"staff_key" : 1,
+		"customer_key" : 85,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 909,
+		"rental_id" : 909,
+		"inventory_id" : 3775,
+		"film_key" : 827,
+		"staff_key" : 1,
+		"customer_key" : 486,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 910,
+		"rental_id" : 910,
+		"inventory_id" : 2601,
+		"film_key" : 571,
+		"staff_key" : 1,
+		"customer_key" : 374,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 911,
+		"rental_id" : 911,
+		"inventory_id" : 1404,
+		"film_key" : 307,
+		"staff_key" : 2,
+		"customer_key" : 366,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 912,
+		"rental_id" : 912,
+		"inventory_id" : 3200,
+		"film_key" : 703,
+		"staff_key" : 2,
+		"customer_key" : 390,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 913,
+		"rental_id" : 913,
+		"inventory_id" : 3213,
+		"film_key" : 706,
+		"staff_key" : 2,
+		"customer_key" : 369,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 914,
+		"rental_id" : 914,
+		"inventory_id" : 1393,
+		"film_key" : 305,
+		"staff_key" : 2,
+		"customer_key" : 596,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 915,
+		"rental_id" : 915,
+		"inventory_id" : 1859,
+		"film_key" : 406,
+		"staff_key" : 1,
+		"customer_key" : 115,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 916,
+		"rental_id" : 916,
+		"inventory_id" : 1290,
+		"film_key" : 285,
+		"staff_key" : 1,
+		"customer_key" : 6,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 917,
+		"rental_id" : 917,
+		"inventory_id" : 3629,
+		"film_key" : 792,
+		"staff_key" : 1,
+		"customer_key" : 385,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 918,
+		"rental_id" : 918,
+		"inventory_id" : 818,
+		"film_key" : 178,
+		"staff_key" : 2,
+		"customer_key" : 197,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 919,
+		"rental_id" : 919,
+		"inventory_id" : 4052,
+		"film_key" : 882,
+		"staff_key" : 2,
+		"customer_key" : 374,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 920,
+		"rental_id" : 920,
+		"inventory_id" : 3860,
+		"film_key" : 845,
+		"staff_key" : 2,
+		"customer_key" : 584,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 921,
+		"rental_id" : 921,
+		"inventory_id" : 1827,
+		"film_key" : 397,
+		"staff_key" : 2,
+		"customer_key" : 508,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 922,
+		"rental_id" : 922,
+		"inventory_id" : 2442,
+		"film_key" : 533,
+		"staff_key" : 2,
+		"customer_key" : 550,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 923,
+		"rental_id" : 923,
+		"inventory_id" : 1884,
+		"film_key" : 410,
+		"staff_key" : 1,
+		"customer_key" : 37,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 924,
+		"rental_id" : 924,
+		"inventory_id" : 3279,
+		"film_key" : 723,
+		"staff_key" : 1,
+		"customer_key" : 293,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 925,
+		"rental_id" : 925,
+		"inventory_id" : 3203,
+		"film_key" : 704,
+		"staff_key" : 2,
+		"customer_key" : 137,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 926,
+		"rental_id" : 926,
+		"inventory_id" : 4327,
+		"film_key" : 942,
+		"staff_key" : 2,
+		"customer_key" : 76,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 927,
+		"rental_id" : 927,
+		"inventory_id" : 1158,
+		"film_key" : 255,
+		"staff_key" : 2,
+		"customer_key" : 167,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 928,
+		"rental_id" : 928,
+		"inventory_id" : 246,
+		"film_key" : 55,
+		"staff_key" : 2,
+		"customer_key" : 79,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 929,
+		"rental_id" : 929,
+		"inventory_id" : 4296,
+		"film_key" : 936,
+		"staff_key" : 1,
+		"customer_key" : 536,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 930,
+		"rental_id" : 930,
+		"inventory_id" : 2835,
+		"film_key" : 621,
+		"staff_key" : 2,
+		"customer_key" : 141,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 931,
+		"rental_id" : 931,
+		"inventory_id" : 3384,
+		"film_key" : 743,
+		"staff_key" : 1,
+		"customer_key" : 421,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 932,
+		"rental_id" : 932,
+		"inventory_id" : 719,
+		"film_key" : 158,
+		"staff_key" : 2,
+		"customer_key" : 198,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 933,
+		"rental_id" : 933,
+		"inventory_id" : 3672,
+		"film_key" : 804,
+		"staff_key" : 1,
+		"customer_key" : 66,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 934,
+		"rental_id" : 934,
+		"inventory_id" : 3595,
+		"film_key" : 786,
+		"staff_key" : 2,
+		"customer_key" : 60,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 935,
+		"rental_id" : 935,
+		"inventory_id" : 2421,
+		"film_key" : 528,
+		"staff_key" : 1,
+		"customer_key" : 256,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 936,
+		"rental_id" : 936,
+		"inventory_id" : 901,
+		"film_key" : 200,
+		"staff_key" : 1,
+		"customer_key" : 469,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 937,
+		"rental_id" : 937,
+		"inventory_id" : 1054,
+		"film_key" : 234,
+		"staff_key" : 2,
+		"customer_key" : 304,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 938,
+		"rental_id" : 938,
+		"inventory_id" : 1521,
+		"film_key" : 331,
+		"staff_key" : 2,
+		"customer_key" : 46,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 939,
+		"rental_id" : 939,
+		"inventory_id" : 1314,
+		"film_key" : 290,
+		"staff_key" : 1,
+		"customer_key" : 367,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 940,
+		"rental_id" : 940,
+		"inventory_id" : 1278,
+		"film_key" : 283,
+		"staff_key" : 1,
+		"customer_key" : 534,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 941,
+		"rental_id" : 941,
+		"inventory_id" : 3630,
+		"film_key" : 792,
+		"staff_key" : 1,
+		"customer_key" : 562,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 942,
+		"rental_id" : 942,
+		"inventory_id" : 4279,
+		"film_key" : 931,
+		"staff_key" : 2,
+		"customer_key" : 473,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 943,
+		"rental_id" : 943,
+		"inventory_id" : 3737,
+		"film_key" : 817,
+		"staff_key" : 1,
+		"customer_key" : 57,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 944,
+		"rental_id" : 944,
+		"inventory_id" : 151,
+		"film_key" : 31,
+		"staff_key" : 2,
+		"customer_key" : 131,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 945,
+		"rental_id" : 945,
+		"inventory_id" : 1441,
+		"film_key" : 315,
+		"staff_key" : 2,
+		"customer_key" : 357,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 946,
+		"rental_id" : 946,
+		"inventory_id" : 1264,
+		"film_key" : 280,
+		"staff_key" : 1,
+		"customer_key" : 486,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 947,
+		"rental_id" : 947,
+		"inventory_id" : 4478,
+		"film_key" : 979,
+		"staff_key" : 1,
+		"customer_key" : 62,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 948,
+		"rental_id" : 948,
+		"inventory_id" : 585,
+		"film_key" : 127,
+		"staff_key" : 2,
+		"customer_key" : 245,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 949,
+		"rental_id" : 949,
+		"inventory_id" : 2202,
+		"film_key" : 476,
+		"staff_key" : 1,
+		"customer_key" : 368,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 950,
+		"rental_id" : 950,
+		"inventory_id" : 491,
+		"film_key" : 109,
+		"staff_key" : 1,
+		"customer_key" : 83,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 951,
+		"rental_id" : 951,
+		"inventory_id" : 1395,
+		"film_key" : 305,
+		"staff_key" : 2,
+		"customer_key" : 59,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 952,
+		"rental_id" : 952,
+		"inventory_id" : 4389,
+		"film_key" : 958,
+		"staff_key" : 2,
+		"customer_key" : 311,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 953,
+		"rental_id" : 953,
+		"inventory_id" : 2194,
+		"film_key" : 474,
+		"staff_key" : 1,
+		"customer_key" : 210,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 954,
+		"rental_id" : 954,
+		"inventory_id" : 1231,
+		"film_key" : 273,
+		"staff_key" : 2,
+		"customer_key" : 297,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 955,
+		"rental_id" : 955,
+		"inventory_id" : 4140,
+		"film_key" : 899,
+		"staff_key" : 2,
+		"customer_key" : 301,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 956,
+		"rental_id" : 956,
+		"inventory_id" : 647,
+		"film_key" : 140,
+		"staff_key" : 2,
+		"customer_key" : 296,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 957,
+		"rental_id" : 957,
+		"inventory_id" : 4428,
+		"film_key" : 968,
+		"staff_key" : 2,
+		"customer_key" : 440,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 958,
+		"rental_id" : 958,
+		"inventory_id" : 548,
+		"film_key" : 119,
+		"staff_key" : 2,
+		"customer_key" : 186,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 959,
+		"rental_id" : 959,
+		"inventory_id" : 3108,
+		"film_key" : 683,
+		"staff_key" : 2,
+		"customer_key" : 535,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 960,
+		"rental_id" : 960,
+		"inventory_id" : 1966,
+		"film_key" : 429,
+		"staff_key" : 2,
+		"customer_key" : 445,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 961,
+		"rental_id" : 961,
+		"inventory_id" : 3293,
+		"film_key" : 725,
+		"staff_key" : 2,
+		"customer_key" : 588,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 962,
+		"rental_id" : 962,
+		"inventory_id" : 4535,
+		"film_key" : 989,
+		"staff_key" : 1,
+		"customer_key" : 520,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 963,
+		"rental_id" : 963,
+		"inventory_id" : 1921,
+		"film_key" : 417,
+		"staff_key" : 2,
+		"customer_key" : 225,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 964,
+		"rental_id" : 964,
+		"inventory_id" : 657,
+		"film_key" : 142,
+		"staff_key" : 2,
+		"customer_key" : 287,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 965,
+		"rental_id" : 965,
+		"inventory_id" : 3363,
+		"film_key" : 738,
+		"staff_key" : 2,
+		"customer_key" : 502,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 966,
+		"rental_id" : 966,
+		"inventory_id" : 1294,
+		"film_key" : 285,
+		"staff_key" : 1,
+		"customer_key" : 496,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 967,
+		"rental_id" : 967,
+		"inventory_id" : 1954,
+		"film_key" : 426,
+		"staff_key" : 2,
+		"customer_key" : 330,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050609
+	},
+	{
+		"rental_key" : 968,
+		"rental_id" : 968,
+		"inventory_id" : 119,
+		"film_key" : 23,
+		"staff_key" : 2,
+		"customer_key" : 576,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 969,
+		"rental_id" : 969,
+		"inventory_id" : 443,
+		"film_key" : 98,
+		"staff_key" : 1,
+		"customer_key" : 551,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 970,
+		"rental_id" : 970,
+		"inventory_id" : 1520,
+		"film_key" : 331,
+		"staff_key" : 1,
+		"customer_key" : 307,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050609
+	},
+	{
+		"rental_key" : 971,
+		"rental_id" : 971,
+		"inventory_id" : 2911,
+		"film_key" : 639,
+		"staff_key" : 1,
+		"customer_key" : 561,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 972,
+		"rental_id" : 972,
+		"inventory_id" : 2,
+		"film_key" : 1,
+		"staff_key" : 1,
+		"customer_key" : 411,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 973,
+		"rental_id" : 973,
+		"inventory_id" : 1914,
+		"film_key" : 416,
+		"staff_key" : 2,
+		"customer_key" : 473,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 974,
+		"rental_id" : 974,
+		"inventory_id" : 2617,
+		"film_key" : 574,
+		"staff_key" : 2,
+		"customer_key" : 596,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 975,
+		"rental_id" : 975,
+		"inventory_id" : 3109,
+		"film_key" : 683,
+		"staff_key" : 2,
+		"customer_key" : 7,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 976,
+		"rental_id" : 976,
+		"inventory_id" : 2290,
+		"film_key" : 496,
+		"staff_key" : 2,
+		"customer_key" : 581,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 977,
+		"rental_id" : 977,
+		"inventory_id" : 2029,
+		"film_key" : 442,
+		"staff_key" : 2,
+		"customer_key" : 394,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 978,
+		"rental_id" : 978,
+		"inventory_id" : 407,
+		"film_key" : 90,
+		"staff_key" : 1,
+		"customer_key" : 154,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 979,
+		"rental_id" : 979,
+		"inventory_id" : 3917,
+		"film_key" : 855,
+		"staff_key" : 2,
+		"customer_key" : 279,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050608
+	},
+	{
+		"rental_key" : 980,
+		"rental_id" : 980,
+		"inventory_id" : 4169,
+		"film_key" : 906,
+		"staff_key" : 1,
+		"customer_key" : 273,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 981,
+		"rental_id" : 981,
+		"inventory_id" : 2913,
+		"film_key" : 640,
+		"staff_key" : 2,
+		"customer_key" : 326,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 982,
+		"rental_id" : 982,
+		"inventory_id" : 3560,
+		"film_key" : 778,
+		"staff_key" : 1,
+		"customer_key" : 524,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 983,
+		"rental_id" : 983,
+		"inventory_id" : 63,
+		"film_key" : 12,
+		"staff_key" : 1,
+		"customer_key" : 115,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 984,
+		"rental_id" : 984,
+		"inventory_id" : 2305,
+		"film_key" : 501,
+		"staff_key" : 2,
+		"customer_key" : 262,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 985,
+		"rental_id" : 985,
+		"inventory_id" : 1573,
+		"film_key" : 345,
+		"staff_key" : 1,
+		"customer_key" : 564,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 986,
+		"rental_id" : 986,
+		"inventory_id" : 4045,
+		"film_key" : 880,
+		"staff_key" : 1,
+		"customer_key" : 253,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 987,
+		"rental_id" : 987,
+		"inventory_id" : 390,
+		"film_key" : 86,
+		"staff_key" : 1,
+		"customer_key" : 11,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 988,
+		"rental_id" : 988,
+		"inventory_id" : 1364,
+		"film_key" : 301,
+		"staff_key" : 1,
+		"customer_key" : 12,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 989,
+		"rental_id" : 989,
+		"inventory_id" : 4388,
+		"film_key" : 958,
+		"staff_key" : 2,
+		"customer_key" : 83,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 990,
+		"rental_id" : 990,
+		"inventory_id" : 4171,
+		"film_key" : 907,
+		"staff_key" : 2,
+		"customer_key" : 311,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 991,
+		"rental_id" : 991,
+		"inventory_id" : 2863,
+		"film_key" : 627,
+		"staff_key" : 1,
+		"customer_key" : 593,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607
+	},
+	{
+		"rental_key" : 992,
+		"rental_id" : 992,
+		"inventory_id" : 3572,
+		"film_key" : 782,
+		"staff_key" : 1,
+		"customer_key" : 123,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050605
+	},
+	{
+		"rental_key" : 993,
+		"rental_id" : 993,
+		"inventory_id" : 2080,
+		"film_key" : 451,
+		"staff_key" : 1,
+		"customer_key" : 513,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 994,
+		"rental_id" : 994,
+		"inventory_id" : 2798,
+		"film_key" : 614,
+		"staff_key" : 2,
+		"customer_key" : 472,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050604
+	},
+	{
+		"rental_key" : 995,
+		"rental_id" : 995,
+		"inventory_id" : 17,
+		"film_key" : 4,
+		"staff_key" : 2,
+		"customer_key" : 150,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050606
+	},
+	{
+		"rental_key" : 996,
+		"rental_id" : 996,
+		"inventory_id" : 2075,
+		"film_key" : 450,
+		"staff_key" : 2,
+		"customer_key" : 331,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050531
+	},
+	{
+		"rental_key" : 997,
+		"rental_id" : 997,
+		"inventory_id" : 4243,
+		"film_key" : 922,
+		"staff_key" : 2,
+		"customer_key" : 216,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050602
+	},
+	{
+		"rental_key" : 998,
+		"rental_id" : 998,
+		"inventory_id" : 3395,
+		"film_key" : 745,
+		"staff_key" : 1,
+		"customer_key" : 389,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050601
+	},
+	{
+		"rental_key" : 999,
+		"rental_id" : 999,
+		"inventory_id" : 4433,
+		"film_key" : 969,
+		"staff_key" : 2,
+		"customer_key" : 413,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050603
+	},
+	{
+		"rental_key" : 1000,
+		"rental_id" : 1000,
+		"inventory_id" : 1774,
+		"film_key" : 385,
+		"staff_key" : 2,
+		"customer_key" : 332,
+		"rental_date_key" : 20050531,
+		"return_date_key" : 20050608
+	}
+]
